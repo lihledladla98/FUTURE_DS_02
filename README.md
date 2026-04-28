@@ -178,6 +178,5 @@ Task-2-Sales-Performance-Analysis/
 
 ---
 
-## 🏢 Program
 
-This project was completed as part of the Future Interns Data Science & Analytics internship program. Analysis based on the   publicly available IBM Telco Customer Churn dataset.
+*This project was completed as part of the Future Interns Data Science & Analytics internship program. Analysis based on the   publicly available IBM Telco Customer Churn dataset.*
